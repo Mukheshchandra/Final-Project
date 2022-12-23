@@ -1,0 +1,10 @@
+.border{
+    border: 0.1rem outset black;
+    border-radius: 3px;
+    padding: 0.3rem;
+}
+.background-image{
+    background-image: url(./images/background.png);
+    background-repeat: no-repeat;
+    height:400px;
+}
